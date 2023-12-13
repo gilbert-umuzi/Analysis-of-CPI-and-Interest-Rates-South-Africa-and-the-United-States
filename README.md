@@ -13,5 +13,22 @@ This Jupyter Notebook focuses on analyzing and comparing the Consumer Price Inde
 * Matplotlib and Seaborn: For creating static, interactive, and informative visualizations.
 * Plotly: For interactive data visualization.
 
+## Key Findings:
+
+- **Correlation and Volatility**: The South African economy demonstrates a tighter correlation between CPI and Repo Rates, especially in earlier decades, with notable volatility. In contrast, the US shows a more complex relationship with periods of high interest rates not always matching high inflation rates.
+
+- **Policy Responses**: Monetary policy responses to inflationary pressures have varied, with South Africa generally maintaining higher interest rates compared to the US. The aggressive stance of the US Federal Reserve in the 1980s is a clear outlier, illustrating a determined effort to curb inflation.
+
+- **Global Trends**: Both economies reflect the global trend of decreasing interest rates post-2000, with recent data pointing to a divergence in policy response to the current economic environment.
+
+- **Decadal Shifts**: The evolution of each country's monetary policy is marked by shifts in economic strategies, with the 1980s being particularly distinct for the US due to steep interest rate hikes. In recent years, the US has experienced low to negative interest rates, while South Africa has shown higher rates, potentially indicating differing current economic conditions or policy approaches.
+
+- **Stabilization and Current Trends**: The analysis indicates periods of stabilization in both countries, with the most recent decade revealing lower rates in the US and a rise in South African rates. This may highlight differing approaches to post-2000 economic challenges and the current economic climate.
+
+## Methodology:
+
+This report employs time series analysis, boxplots, swarmplots, and scatter plots to illustrate the data. Each visualization method brings unique insights, from the general distribution of values to the specifics of policy responses over time.
+
+
 **Author:** Gilbert Pooley
 **Created:** 2023-12-12
